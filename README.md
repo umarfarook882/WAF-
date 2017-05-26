@@ -1,4 +1,4 @@
-# OWASP CRS 3 & COMODO WAF Patch rules
+# [FOS] OWASP CRS 3 & COMODO WAF Patch rules
 ![picsart_05-26-12 42 26](https://cloud.githubusercontent.com/assets/22318677/26484647/f8728c7c-4210-11e7-822d-7d3a19ca95e5.jpg)
 ## How to write Custom WAF rule to block new attacks on web application?
    1. At first, try to identify the security issue i.e payload or process which normally  WAF failed to detect. 
