@@ -47,9 +47,10 @@ If you want new rules, create an issue report and label it as enhancement Or sta
 
 ## :scroll:Changelog
 I will update new rules with  improvements i.e with out any false positive detection . Be sure to check out the [Changelog](https://github.com/umarfarook882/WAF-Rule-Writing-part-2/wiki/Change-Log)
-
+ 
 ## :octocat:Credits:
 * Umar Farook: [Security Engineer | Researcher](https://www.linkedin.com/in/umar-farook-a45603101)
+* FOS Team : [Fools of Secuirty](https://www.youtube.com/channel/UCEBHO0kD1WFvIhf9wBCU-VQ)
 
 ## :octocat:How to contribute
 All contributions are welcome, from code to documentation, to design suggestions, to bug reports.
@@ -57,7 +58,9 @@ Please use GitHub to its fullest. submit pull requests, contribute tutorials or 
 you have to offer, we can use it!
 
 ## Support !
-Email address: umarfarookmech712@gmail.com  for more details.
+  Email address: umarfarookmech712@gmail.com  for more details. <br>
+  Youtube:[FOS](https://www.youtube.com/channel/UCEBHO0kD1WFvIhf9wBCU-VQ) <br>
+  Blog:[FOS](https://fosecurity.blogspot.com) 
 
 ## Useful links:
  1. [Modsecurity](www.modsecurity.com/)
